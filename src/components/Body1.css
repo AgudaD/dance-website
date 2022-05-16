@@ -1,0 +1,133 @@
+.main{
+    margin-left: 73px;
+    margin-right: 76px;
+    width: 50%;
+}
+.info{
+    margin-top: 230px;
+    width: 50%;
+}
+.info-title{
+    width: 580px;
+    height: 225px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 59px;
+    line-height: 75px;
+    letter-spacing: 0.01em;
+    margin-bottom: 0;
+}
+.main-info{
+    width: 523px;
+    height: 48px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+}
+.lady-div{
+    width: 50%;
+}
+.dancelady{
+    position: absolute;
+    width: 551px;
+    height: 828px;
+    left: 760px;
+    top: 33px;
+    z-index: 3;
+}
+.box1{
+    position: absolute;
+    width: 482px;
+    height: 298px;
+    left: 745px;
+    top: 363px; 
+    background-color: #F980BF;
+    z-index: 2;
+}
+.box2{
+    position: absolute;
+    width: 317px;
+    height: 298px;
+    left: 1007px;
+    top: 428px;
+    background-color: #F596C7;
+    z-index: 1;
+}
+.blue{
+    position: absolute;
+    left: 90.35%;
+    right: 8.69%;
+    top: 6.83%;
+    bottom: 92.83%;
+}
+.orange{
+    position: absolute;
+    left: 59.79%;
+    right: 39.25%;
+    top: 11.4%;
+    bottom: 88.28%;
+}
+.scroll{
+    display: flex;
+    margin-top: 98px;
+    width: 110px;
+    justify-content: space-between;
+    align-items: center;
+}
+.scroll .line:hover{
+    margin-left: 20px;
+    animation: ease-in-out;
+}
+.scrolltxt{
+    height: 20px; 
+    font-weight: 300;
+    font-style: normal; 
+    font-size: 18px;
+}
+.ellipse1{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 74px;
+    top: 845px;
+    border-radius: 50%;
+    background-color: #F596C7;
+}
+.ellipse2{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 74px;
+    top: 871px;
+    border-radius: 50%;
+    background: #F596C7;
+}
+.ellipse3{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 74px;
+    top: 897px;
+    border-radius: 50%;
+    background: #F596C7;
+}
+.ellipse4{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 74px;
+    top: 923px;
+    border-radius: 50%;
+    background: #F596C7;
+}
+.ellipse5{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 74px;
+    top: 949px;
+    border-radius: 50%;
+    background: #F596C7;
+}

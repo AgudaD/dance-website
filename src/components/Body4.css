@@ -1,0 +1,65 @@
+.testimony{
+    background-image: url('C:\Users\OWNER\Desktop\CODES\dance-website\src\assets\testimony.svg');
+    height: 666px;
+}
+.curves{
+    position: absolute;
+    right: 82.64%;
+    top: 54.62%;
+    bottom: 33.93%;
+}
+.testimonies{
+    margin: 0;
+    padding-top: 54px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    margin-left: 568px;
+}
+.slide{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 358px;
+    margin-top: 90px;
+}
+.tweet{
+    width: 554px;
+    height: 286px;
+    background: #FAFAFA;
+    box-shadow: 0px -1px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin-left: 15px;
+
+}
+.quote{
+    width: 452px;
+    height: 105px;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 48px;
+    padding-top: 53px;
+}
+.quote span{
+    color:#810303;
+}
+.profile{
+    display: flex;
+    align-items: center;
+}
+.profilename{
+    margin: 0;   
+    height: 18px;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 13px;
+}
+.medium{
+    margin: 0;
+    height: 16px;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 9px;
+}

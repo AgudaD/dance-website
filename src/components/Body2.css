@@ -1,0 +1,18 @@
+.infoheading{
+    /* width: 308px;
+    height: 63px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px; */
+    margin-top: 62px;
+    margin-left: 566px;
+    margin-bottom: 0;
+}
+.readmore{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 102px;
+}

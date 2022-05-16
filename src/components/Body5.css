@@ -1,0 +1,110 @@
+.swirls{
+    position: absolute;
+    z-index: 1;
+    left: 50.69%;
+    right: 10.57%;
+    top: 71.84%;
+    bottom: 16.57%;
+}
+.contact{
+    position: absolute;
+    z-index: 3;
+    left: 859px;
+    top: 3171px;
+    height: auto;
+    width: 28%;
+}
+.form{
+    position: relative;
+    z-index: 2;
+    width: 950px;
+    height: 700px;
+    margin-top: 90px;
+    margin-bottom: 40px;
+    background: rgba(255, 235, 248, 0.5);
+    backdrop-filter: blur(90px);
+}
+.form form{
+    padding-top: 78px;
+    margin-left: 73px;
+
+}
+.topinput{
+    display: flex;
+    align-items: center;
+    gap: 95px;
+}
+.topinput input{
+    width: 323px;
+    border: none;
+    background-color: rgba(255, 235, 248, 0.5);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.65);
+}
+input{
+    width: 741px;
+    border: none;
+    background-color: rgba(255, 235, 248, 0.5);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.65);
+}
+.contactinfo{
+    margin-left: 70px;
+}
+.bottom{
+    display: flex;
+    gap: 20px;
+}
+.bottom p{
+    color: #C50985;
+}
+.about p{
+    font-size: 18px;
+    font-weight: 200;
+    font-style: normal;
+}
+.footer{
+    display: flex;
+}
+.footerhalf{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.footer2{
+    margin-top: 45px;
+    margin-left: 100px;
+    text-align: center;
+}
+.footer2 label {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+}
+.footersearch{
+    width: 395px;
+    height: 55px;
+    margin-top: 25px;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+    background-image: url('C:\Users\OWNER\Desktop\CODES\dance-website\src\assets\forwardarrow.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-left: 20px;
+    background-size: 50px;
+    background-position-x: 330px;
+}
+.socials{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 50px;
+}
+.copyright{
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 123px;
+    margin-bottom: 70px;
+}

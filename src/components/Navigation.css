@@ -1,0 +1,50 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+.logo{
+    display: flex;
+    margin-top: 58px;
+    margin-left: 83px;
+    width: 150px;
+    height: 40px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 58px;
+    margin-right: 73px;
+    height: 40px;
+    width: 415px;
+    gap: 20px;
+}
+.nav button{
+    border: none;
+    font-size: 16px;
+    background-color: #faf4f9;
+    font-weight: 400;
+    
+}
+.navbar .login{
+    color: white;
+    background-color: black;
+    width: 105px;
+    height: 40px;
+}
+/* .nav button.active{
+    border-bottom: 2px solid black;
+    border-bottom-width: 5px;
+    border-radius: 2px;
+} */
+.diamond{
+    position: absolute;
+    left: 45.83%;
+    right: 46.85%;
+    top: 5.11%;
+    bottom: 92.48%;
+}

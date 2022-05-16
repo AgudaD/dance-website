@@ -1,0 +1,40 @@
+.infoheader{
+    margin-left: 506px;
+    /* font-style: normal;
+    font-weight: 400;
+    font-size: 50px; */
+}
+.sections{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    gap: 20px;
+    margin-top: 49px;
+    margin-bottom: 83px;
+}
+.block{
+    width: 264px;
+    height: 256px;
+    background-color: #ffffff;
+}
+.blockheading{
+    width: 216px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 24px;
+}
+.blockinfo{
+    width: 216px;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 12px;
+    margin-left: 24px;
+}
+.learnmore{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 8px;
+    color: #F980BF;
+    margin-left: 24px;
+}
