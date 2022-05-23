@@ -28,7 +28,7 @@ const Body1 = () => {
             <span className='downarrow' style={{fontSize: '18px', }}>&#8595;</span>
             <p className='scrolltxt'>Scroll down
             <div className='line' style={{
-              width: '93px',
+              width: '94px',
               border: '1px solid',
               // borderRadius: '5px',
               backgroundColor: 'black',
