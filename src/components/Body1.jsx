@@ -1,8 +1,8 @@
 import './Body1.css'
 import Navigation from './Navigation'
 import dancinglady from '../assets/dancing lady.svg'
-import bluex from '../assets/blue x.svg'
-import orangex from '../assets/orange x.svg'
+// import bluex from '../assets/blue x.svg'
+// import orangex from '../assets/orange x.svg'
 import pinkx from '../assets/pink x.svg'
 
 const Body1 = () => {
@@ -27,14 +27,7 @@ const Body1 = () => {
           <div className='scroll'>
             <span className='downarrow' style={{fontSize: '18px', }}>&#8595;</span>
             <p className='scrolltxt'>Scroll down
-            <div className='line' style={{
-              width: '94px',
-              border: '1px solid',
-              // borderRadius: '5px',
-              backgroundColor: 'black',
-              marginTop: '4px',
-              marginLeft: '2px'
-            }}></div></p>
+            <div className='line'></div></p>
           </div>
             
         </div>
