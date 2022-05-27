@@ -12,16 +12,17 @@ const Navigation = () => {
         </div>
 
         <div className="nav">
-            <button className='active'> Home <div style={{
+            <button className='active about'> Home <div style={{
               width: '23px',
               height: '3px',
               borderRadius: '5px',
               backgroundColor: '#2F2E2E',
-              marginLeft: '12px',
-              marginTop: '4px'
+              marginLeft: '28px',
+              marginTop: '4px',
+              textAlign: 'center',
             }}></div></button>
-            <button>About Us</button>
-            <button>Sign-in</button>
+            <button className='about'>About Us</button>
+            <button className='about'>Sign-in</button>
             <button className='login'>Login</button>
         </div>
 
