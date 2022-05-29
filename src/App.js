@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="App">
       <Body5 />
-      {/* <Navigation /> */}
     </div>
   );
 }
